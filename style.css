@@ -1,0 +1,33 @@
+body {
+	font-family: Helvetica;
+	background-color: rgb(195, 55, 37);
+}
+h2 {
+	color: white;
+	font-size: 75px;
+	padding: -100px;
+	text-align: justify;
+	margin: auto;
+}
+
+div {
+	border-bottom: 2px solid black;
+}
+
+h3 {
+	font-size: xx-large;
+}
+.flex-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.flex-child {
+  padding: 2%;
+}
+
+.column1 {
+	width: 20%;
+    padding:2%;
+}
